@@ -1,3 +1,3 @@
 # SQL-Practice-HackerRank
 
-This repository contains solutions and documentation for SQL challenges from HackerRank.
+This repository contains my solutions for SQL challenges from HackerRank.
